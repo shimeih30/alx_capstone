@@ -31,7 +31,7 @@ from the models to the migrations to the way authentication flows work.
 Thank you for passing by and enjoy some ascii art down below
 
 
-
+```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%@@@@@@%%@@@@@@@%%%@@@@@@%%%%@%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%
@@ -75,7 +75,7 @@ Thank you for passing by and enjoy some ascii art down below
 ----------.------.-.------------------.--------------------------
 
 
-
+```
 
 
 
