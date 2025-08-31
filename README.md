@@ -28,6 +28,8 @@ enroll in this course to start working on the MVP and understand what I am doing
 I didn’t want to just vibe-code this project, I wanted to actually understand what’s happening under the hood, 
 from the models to the migrations to the way authentication flows work.
 
+I am going to deploy this on render. just to learn and get the hang of this stuff
+
 Here is the Documentation and Project Structure
 
 
