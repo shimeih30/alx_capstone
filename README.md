@@ -67,7 +67,7 @@ API Features
 
 Project Structure
 
-
+```
 appointments-booking-app/
 ├── manage.py
 ├── requirements.txt
@@ -92,6 +92,8 @@ appointments-booking-app/
 ├── views.py                  Responsible for  Appointment API views
 ├── serializers.py            Responsible for  Appointment serializers
 └── admin.py                  Responsible for  Admin configuration
+
+```
 
 For Installation & Setup
 
