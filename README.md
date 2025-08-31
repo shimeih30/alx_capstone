@@ -93,7 +93,7 @@ appointments-booking-app/
 ├── serializers.py            Responsible for  Appointment serializers
 └── admin.py                  Responsible for  Admin configuration
 
-```
+
 
 For Installation & Setup
 
@@ -116,7 +116,7 @@ python manage.py runserver
 To access the API go to http://127.0.0.1:8000/api/ in ypur browser
 For Admin go to: http://127.0.0.1:8000/admin/
 
-
+```
 
 
 
