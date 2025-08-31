@@ -1,2 +1,2 @@
-web: gunicorn appointments_booking.wsgi
+web: gunicorn appointments_booking.wsgi:application
 
