@@ -1,2 +1,2 @@
-web: gunicorn tendii.wsgi
+web: gunicorn appointments_booking.wsgi
 
