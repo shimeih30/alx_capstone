@@ -191,3 +191,4 @@ wsproto==1.2.0
 xmod==1.8.1
 xonsh==0.19.2
 zeroconf==0.145.1
+gunicorn
