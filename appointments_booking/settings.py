@@ -4,6 +4,9 @@ from pathlib import Path
 from decouple import config, Csv
 import dj_database_url
 
+ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv(), default='alx-capstone.onrender.com')
+CSRF_TRUSTED_ORIGINS = config('CSRF_TRUSTED_ORIGINS', cast=Csv(), default='https://alx-capstone.onrender.com')
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
